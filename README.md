@@ -1,4 +1,3 @@
-# Profile
 # Hey, I'm Sayed 👋
 
 ### Smart Contract Developer & Blockchain Security Researcher
